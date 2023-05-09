@@ -1,0 +1,279 @@
+Lizard_ID	OTM	Temp	Sun	Wind	Orientation
+BGR	1	rock	full sun	exposed	N
+BGR	2	rock	full sun	exposed	N
+BGR	3	rock	partly sun	not	N
+BGR	4	rock	shade	not	N
+BGR	5	soil	partly sun	not	N
+BGR	6	soil	shade	not	N
+BGR	7	soil	full sun	not	N
+BGR	8	rock	full sun	exposed	S
+BGR	9	rock	partly sun	not	S
+BGR	10	soil	full sun	not	S
+BGR	11	rock	full sun	exposed	E
+BGR	12	rock	partly sun	not	E
+BGR	13	soil	full sun	not	E
+BGR	14	rock	full sun	exposed	W
+BGR	15	rock	partly sun	not	W
+BGR	16	soil	full sun	not	W
+BGR	17	rock	crevice	not	
+BGR	18	rock	crevice	not	
+BGW	19	rock	full sun	exposed	N
+BGW	20	rock	full sun	exposed	N
+BGW	21	rock	partly sun	not	N
+BGW	22	rock	shade	not	N
+BGW	23	soil	partly sun	not	N
+BGW	24	soil	shade	not	N
+BGW	25	soil	full sun	not	N
+BGW	26	rock	full sun	exposed	S
+BGW	27	rock	partly sun	not	S
+BGW	28	soil	full sun	not	S
+BGW	29	rock	full sun	exposed	E
+BGW	30	rock	partly sun	not	E
+BGW	31	soil	full sun	not	E
+BGW	32	rock	full sun	exposed	W
+BGW	33	rock	partly sun	not	W
+BGW	34	soil	full sun	not	W
+BGW	35	rock	crevice	not	
+BGW	36	rock	crevice	not	
+BWG	37	rock	full sun	exposed	N
+BWG	39	rock	partly sun	not	N
+BWG	40	rock	shade	not	N
+BWG	41	soil	partly sun	not	N
+BWG	42	soil	shade	not	N
+BWG	43	soil	full sun	not	N
+BWG	44	rock	full sun	exposed	S
+BWG	45	rock	partly sun	not	S
+BWG	46	soil	full sun	not	S
+BWG	47	rock	full sun	exposed	E
+BWG	48	rock	partly sun	not	E
+BWG	49	soil	full sun	not	E
+BWG	50	rock	full sun	exposed	W
+BWG	51	rock	partly sun	not	W
+BWG	52	soil	full sun	not	W
+BWG	53	rock	crevice	not	
+BWG	54	rock	crevice	not	
+GBG	55	rock	full sun	exposed	N
+GBG	56	rock	full sun	exposed	N
+GBG	57	rock	partly sun	not	N
+GBG	58	rock	shade	not	N
+GBG	59	soil	partly sun	not	N
+GBG	60	soil	shade	not	N
+GBG	61	soil	full sun	not	N
+GBG	62	rock	full sun	exposed	S
+GBG	63	rock	partly sun	not	S
+GBG	64	soil	full sun	not	S
+GBG	65	rock	full sun	exposed	E
+GBG	66	rock	partly sun	not	E
+GBG	67	soil	full sun	not	E
+GBG	69	rock	partly sun	not	W
+GBG	70	soil	full sun	not	W
+GBG	71	rock	crevice	not	
+GBG	72	rock	crevice	not	
+GBR	73	rock	full sun	exposed	N
+GBR	74	rock	full sun	exposed	N
+GBR	75	rock	partly sun	not	N
+GBR	76	rock	shade	not	N
+GBR	77	soil	partly sun	not	N
+GBR	78	soil	shade	not	N
+GBR	79	soil	full sun	not	N
+GBR	81	rock	partly sun	not	S
+GBR	82	soil	full sun	not	S
+GBR	83	rock	full sun	exposed	E
+GBR	84	rock	partly sun	not	E
+GBR	85	soil	full sun	not	E
+GBR	86	rock	full sun	exposed	W
+GBR	87	rock	partly sun	not	W
+GBR	88	soil	full sun	not	W
+GBR	89	rock	crevice	not	
+GBR	90	rock	crevice	not	
+GBW	91	rock	full sun	exposed	N
+GBW	92	rock	full sun	exposed	N
+GBW	93	rock	partly sun	not	N
+GBW	94	rock	shade	not	N
+GBW	95	soil	partly sun	not	N
+GBW	96	soil	shade	not	N
+GBW	97	soil	full sun	not	N
+GBW	100	soil	full sun	not	S
+GBW	101	rock	full sun	exposed	E
+GBW	102	rock	partly sun	not	E
+GBW	103	soil	full sun	not	E
+GBW	104	rock	full sun	exposed	W
+GBW	105	rock	partly sun	not	W
+GBW	106	soil	full sun	not	W
+GBW	107	rock	crevice	not	
+GBW	108	rock	crevice	not	
+GRB	109	rock	full sun	exposed	N
+GRB	110	rock	full sun	exposed	N
+GRB	111	rock	partly sun	not	N
+GRB	112	rock	shade	not	N
+GRB	113	soil	partly sun	not	N
+GRB	114	soil	shade	not	N
+GRB	115	soil	full sun	not	N
+GRB	116	rock	full sun	exposed	S
+GRB	118	soil	full sun	not	S
+GRB	119	rock	full sun	exposed	E
+GRB	120	rock	partly sun	not	E
+GRB	121	soil	full sun	not	E
+GRB	122	rock	full sun	exposed	W
+GRB	123	rock	partly sun	not	W
+GRB	124	soil	full sun	not	W
+GRB	125	rock	crevice	not	
+GRB	126	rock	crevice	not	
+GYB	127	rock	full sun	exposed	N
+GYB	128	rock	full sun	exposed	N
+GYB	129	rock	partly sun	not	N
+GYB	130	rock	shade	not	N
+GYB	131	soil	partly sun	not	N
+GYB	132	soil	shade	not	N
+GYB	133	soil	full sun	not	N
+GYB	134	rock	full sun	exposed	S
+GYB	135	rock	partly sun	not	S
+GYB	136	soil	full sun	not	S
+GYB	137	rock	full sun	exposed	E
+GYB	138	rock	partly sun	not	E
+GYB	139	soil	full sun	not	E
+GYB	140	rock	full sun	exposed	W
+GYB	141	rock	partly sun	not	W
+GYB	142	soil	full sun	not	W
+GYB	143	rock	crevice	not	
+GYB	144	rock	crevice	not	
+RBR	145	rock	full sun	exposed	N
+RBR	146	rock	full sun	exposed	N
+RBR	147	rock	partly sun	not	N
+RBR	148	rock	shade	not	N
+RBR	149	soil	partly sun	not	N
+RBR	150	soil	shade	not	N
+RBR	151	soil	full sun	not	N
+RBR	152	rock	full sun	exposed	S
+RBR	153	rock	partly sun	not	S
+RBR	154	soil	full sun	not	S
+RBR	155	rock	full sun	exposed	E
+RBR	156	rock	partly sun	not	E
+RBR	157	soil	full sun	not	E
+RBR	158	rock	full sun	exposed	W
+RBR	159	rock	partly sun	not	W
+RBR	160	soil	full sun	not	W
+RBR	161	rock	crevice	not	
+RBR	162	rock	crevice	not	
+RBY	164	rock	full sun	exposed	N
+RBY	165	rock	partly sun	not	N
+RBY	166	rock	shade	not	N
+RBY	167	soil	partly sun	not	N
+RBY	168	soil	shade	not	N
+RBY	169	soil	full sun	not	N
+RBY	170	rock	full sun	exposed	S
+RBY	171	rock	partly sun	not	S
+RBY	172	soil	full sun	not	S
+RBY	173	rock	full sun	exposed	E
+RBY	174	rock	partly sun	not	E
+RBY	175	soil	full sun	not	E
+RBY	176	rock	full sun	exposed	W
+RBY	177	rock	partly sun	not	W
+RBY	178	soil	full sun	not	W
+RBY	179	rock	crevice	not	
+RBY	180	rock	crevice	not	
+RGB	181	rock	full sun	exposed	N
+RGB	182	rock	full sun	exposed	N
+RGB	183	rock	partly sun	not	N
+RGB	184	rock	shade	not	N
+RGB	185	soil	partly sun	not	N
+RGB	186	soil	shade	not	N
+RGB	187	soil	full sun	not	N
+RGB	188	rock	full sun	exposed	S
+RGB	189	rock	partly sun	not	S
+RGB	190	soil	full sun	not	S
+RGB	191	rock	full sun	exposed	E
+RGB	192	rock	partly sun	not	E
+RGB	193	soil	full sun	not	E
+RGB	194	rock	full sun	exposed	W
+RGB	195	rock	partly sun	not	W
+RGB	196	soil	full sun	not	W
+RGB	197	rock	crevice	not	
+RGB	198	rock	crevice	not	
+WBG	199	rock	full sun	exposed	N
+WBG	200	rock	full sun	exposed	N
+WBG	201	rock	partly sun	not	N
+WBG	202	rock	shade	not	N
+WBG	203	soil	partly sun	not	N
+WBG	204	soil	shade	not	N
+WBG	205	soil	full sun	not	N
+WBG	206	rock	full sun	exposed	S
+WBG	207	rock	partly sun	not	S
+WBG	208	soil	full sun	not	S
+WBG	209	rock	full sun	exposed	E
+WBG	210	rock	partly sun	not	E
+WBG	211	soil	full sun	not	E
+WBG	212	rock	full sun	exposed	W
+WBG	213	rock	partly sun	not	W
+WBG	214	soil	full sun	not	W
+WBG	215	rock	crevice	not	
+WBG	216	rock	crevice	not	
+WGB	217	rock	full sun	exposed	N
+WGB	218	rock	full sun	exposed	N
+WGB	219	rock	partly sun	not	N
+WGB	220	rock	shade	not	N
+WGB	221	soil	partly sun	not	N
+WGB	222	soil	shade	not	N
+WGB	223	soil	full sun	not	N
+WGB	224	rock	full sun	exposed	S
+WGB	225	rock	partly sun	not	S
+WGB	226	soil	full sun	not	S
+WGB	227	rock	full sun	exposed	E
+WGB	228	rock	partly sun	not	E
+WGB	229	soil	full sun	not	E
+WGB	230	rock	full sun	exposed	W
+WGB	231	rock	partly sun	not	W
+WGB	232	soil	full sun	not	W
+WGB	233	rock	crevice	not	
+WGB	234	rock	crevice	not	
+WYR	235	rock	full sun	exposed	N
+WYR	236	rock	full sun	exposed	N
+WYR	237	rock	partly sun	not	N
+WYR	238	rock	shade	not	N
+WYR	239	soil	partly sun	not	N
+WYR	240	soil	shade	not	N
+WYR	241	soil	full sun	not	N
+WYR	242	rock	full sun	exposed	S
+WYR	243	rock	partly sun	not	S
+WYR	244	soil	full sun	not	S
+WYR	245	rock	full sun	exposed	E
+WYR	246	rock	partly sun	not	E
+WYR	247	soil	full sun	not	E
+WYR	248	rock	full sun	exposed	W
+WYR	249	rock	partly sun	not	W
+WYR	250	soil	full sun	not	W
+WYR	251	rock	crevice	not	
+WYR	252	rock	crevice	not	
+YGW	253	rock	full sun	exposed	N
+YGW	254	rock	full sun	exposed	N
+YGW	255	rock	partly sun	not	N
+YGW	256	rock	shade	not	N
+YGW	257	soil	partly sun	not	N
+YGW	258	soil	shade	not	N
+YGW	259	soil	full sun	not	N
+YGW	260	rock	full sun	exposed	S
+YGW	261	rock	partly sun	not	S
+YGW	262	soil	full sun	not	S
+YGW	263	rock	full sun	exposed	E
+YGW	264	rock	partly sun	not	E
+YGW	265	soil	full sun	not	E
+YGW	266	rock	full sun	exposed	W
+YGW	267	rock	partly sun	not	W
+YGW	268	soil	full sun	not	W
+YGW	269	rock	crevice	not	
+YGW	270	rock	crevice	not	
+YWY	271	rock	full sun	exposed	N
+YWY	272	rock	full sun	exposed	N
+YWY	273	rock	partly sun	not	N
+YWY	274	rock	shade	not	N
+YWY	275	soil	partly sun	not	N
+YWY	276	soil	shade	not	N
+YWY	277	soil	full sun	not	N
+YWY	278	rock	full sun	exposed	S
+YWY	282	rock	partly sun	not	E
+YWY	283	soil	full sun	not	E
+YWY	284	rock	full sun	exposed	W
+YWY	285	rock	partly sun	not	W
+YWY	286	soil	full sun	not	W
+YWY	287	rock	crevice	not	
+YWY	288	rock	crevice	not	
